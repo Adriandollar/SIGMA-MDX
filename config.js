@@ -25,12 +25,12 @@ ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
 FAKE_TYPING: process.env.FAKE_TYPING || "false",
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "fase",
-BOT_NAME: process.env.BOT_NAME || "SIGMA MD",
+BOT_NAME: process.env.BOT_NAME || "𝕲⃤𝖔⃤𝖉⃤ 𝐴𝐷𝑅𝐼𝐴𝑁 𝐷𝑂𝐿𝐿𝐴𝑅𝑆",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
